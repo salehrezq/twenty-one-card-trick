@@ -7,4 +7,4 @@ The program will show you 3 columns of 7 playing cards. Think about any card num
 After the third time/step, the program will tell you the card that you were thinking of.
 
 ## First step of the trick
-![First step of the trick](https://3.bp.blogspot.com/-9mcPzjMybq8/XCmHgE03NDI/AAAAAAAAGhY/BmjvAiSevgI_vDZM14F7xmT0TmY1ief0gCLcBGAs/s1600/Untitled.png)
+![First step of the trick](https://2.bp.blogspot.com/-ITewvqH8Puo/XCmQQUVABiI/AAAAAAAAGhk/r7ZLmBps_is_-eYDOMH1iSYKY0gpAn7-gCLcBGAs/s1600/Untitled.png)
