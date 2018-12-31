@@ -757,7 +757,7 @@ public class CardsMagic extends JPanel
     private static void createAndShowGUI()
     {
         //Create and set up the window.
-        frame = new JFrame("Mind Reader");
+        frame = new JFrame("Twenty-one card trick");
         frame.setSize(600, 700);
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
